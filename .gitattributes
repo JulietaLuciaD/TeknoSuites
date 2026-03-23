@@ -1,23 +1,2 @@
-# Visual Studio
-.vs/
-*.user
-*.suo
-
-# Build
-bin/
-obj/
-
-# Logs y caches
-*.log
-*.cache
-*.db
-*.shm
-*.wal
-
-# Node (React)
-node_modules/
-dist/
-build/
-
-# Otros
-.env
+# Auto detect text files and perform LF normalization
+* text=auto
