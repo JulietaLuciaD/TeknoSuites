@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build
+bin/
+obj/
+
+# Logs y caches
+*.log
+*.cache
+*.db
+*.shm
+*.wal
+
+# Node (React)
+node_modules/
+dist/
+build/
+
+# Otros
+.env
