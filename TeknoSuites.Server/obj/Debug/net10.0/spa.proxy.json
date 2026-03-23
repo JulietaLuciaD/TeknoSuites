@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:56249",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\Julie\\source\\repos\\TeknoSuites\\TeknoSuites.Server\\..\\teknosuites.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="teknosuites.client/teknosuites.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="TeknoSuites.Server/TeknoSuites.Server.csproj" />
+</Solution>

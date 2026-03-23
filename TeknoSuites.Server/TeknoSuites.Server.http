@@ -1,0 +1,6 @@
+@TeknoSuites.Server_HostAddress = http://localhost:5010
+
+GET {{TeknoSuites.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
