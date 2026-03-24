@@ -52,17 +52,17 @@ export default function Login() {
                     </div>
 
                     <div className="form-group">
-                        <label>Contraseña</label>
+                        <label>Contrase&ntilde;a</label>
                         <input
                             type="password"
-                            placeholder="Ingrese su contraseña"
+                            placeholder="Ingrese su contrase&ntilde;a"
                             value={password}
                             onChange={(e) => setPassword(e.target.value)}
                             required
                         />
                     </div>
 
-                    <button type="submit">Iniciar Sesión</button>
+                    <button type="submit">Iniciar Sesi&oacute;n</button>
                 </form>
             </div>
         </div>
